@@ -12,13 +12,13 @@ main:
     url: /honors-and-awards/
 
   - title: "Education"
-    url: /education
+    url: /education/
 
   - title: "Research Experience"
-    url: /research-experience
+    url: /research-experience/
 
   - title: "Projects"
-    url: /projects
+    url: /projects/
 
   - title: "Curriculum Vitae"
     url: /files/YadiLiu_CV.pdf
